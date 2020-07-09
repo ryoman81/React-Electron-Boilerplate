@@ -1,5 +1,7 @@
 This is the boilerplate for a React-Electron project. It was built upon [Create React App](https://github.com/facebook/create-react-app) and [Electron](https://www.electronjs.org).
-Initialize your Electron and React project with this boilerplate with minimum requirements and clear structure. 
+Initialize your Electron and React project with this boilerplate with minimum requirements and clear structure.
+
+*In the future, a production mode of Electron will be added once my major project comes to that stage.*`
 
 ## Available Scripts
 
